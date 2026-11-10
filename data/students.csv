@@ -1,0 +1,7 @@
+id,firstName,lastName,birthDate,year,courses,grades,skills
+S001,Olena,Kovalenko,2004-03-15,2,CS101;MATH101;CS201,CS101:92;MATH101:78;CS201:85,dart;python;sql
+S002,Andrii,Shevchenko,2003-11-02,3,CS101;CS201;MOB301,CS101:67;CS201:55;MOB301:71,dart;flutter
+S003,Maria,Bondar,2005-07-21,1,CS101;MATH101,CS101:98;MATH101:90,python;git
+S004,Taras,Melnyk,2004-01-30,2,CS101;MATH101,CS101:45;MATH101:62,java;sql
+S005,Iryna,Tkachenko,2002-09-09,4,CS101;CS201;MOB301,CS101:88;CS201:91;MOB301:95,dart;flutter;git
+S006,Bohdan,Kravchuk,2005-05-12,1,CS101,,git

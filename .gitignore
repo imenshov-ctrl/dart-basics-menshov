@@ -1,0 +1,19 @@
+# Dart / pub
+.dart_tool/
+.packages
+build/
+pubspec.lock
+doc/api/
+
+# Coverage
+coverage/
+
+# Generated output
+data/output/
+
+# IDE
+.idea/
+*.iml
+.vscode/*
+!.vscode/settings.json
+.DS_Store
